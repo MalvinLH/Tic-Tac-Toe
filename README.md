@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
-Unity Project of My Tic Tac Toe Game
+# Tic-Tac-Toe Web Build Files
+A branch that contains the necessary web build files for my Tic Tac Toe Unity project.
